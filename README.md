@@ -2,6 +2,8 @@
 
 A curated collection of Claude Code Skills created by Pierre-Emmanuel FEGA, assisted by Cline and Claude Code, designed to empower Claude Code users with enhanced capabilities and specialized workflows.
 
+https://github.com/user-attachments/assets/claude-code-skills-animation.mp4
+
 ## What are Claude Code Skills?
 
 Claude Code Skills are specialized capabilities that extend Claude's functionality through focused prompts and tool integrations. Skills enable Claude to perform domain-specific tasks more effectively by providing targeted expertise, workflows, and tool access patterns.
