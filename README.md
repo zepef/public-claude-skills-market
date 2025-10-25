@@ -2,6 +2,8 @@
 
 A curated collection of Claude Code Skills created by Pierre-Emmanuel FEGA, assisted by Cline and Claude Code, designed to empower Claude Code users with enhanced capabilities and specialized workflows.
 
+![Claude Code Skills](claude-code-skills-image.png)
+
 https://github.com/user-attachments/assets/claude-code-skills-animation.mp4
 
 ## What are Claude Code Skills?
